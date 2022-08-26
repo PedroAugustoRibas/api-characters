@@ -1,16 +1,24 @@
 # Api de personagens
 
-Este projeto foi desenvolvido com o oobjetivo de realizar as operações basicas de uma API. Nele está sendo usado o design pattern factory
+Este projeto foi desenvolvido com o oobjetivo de realizar as operações basicas de uma API.
 
 
 ## Instalar as dependencias do projeto
 ```
 npm install
 ```
+ou 
+```
+yarn install
+```
 
 ### Iniciar o projeto
 ```
 npm run start
+```
+ou
+```
+yarn run start
 ```
 
 
